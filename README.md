@@ -9,7 +9,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-image: url('https://example.com/ronaldo-header-goal.jpg'); /* تأكد من استبدال هذا الرابط بالصورة الفعلية */
+            background-image: url(https://raw.githubusercontent.com/thecjmn/7modyA7bk/main/Snapchat-624391435.jpg)
             background-size: cover;
             color: white;
             text-align: center;
