@@ -1,0 +1,5 @@
+body {
+    background-image: url('https://raw.githubusercontent.com/thecjmn/7modyA7bk/main/Snapchat-624391435.jpg');
+    background-size: cover; /* يجعل الصورة تغطي كامل الصفحة */
+    background-position: center; /* يجعل الصورة تتمركز في منتصف الشاشة */
+}
